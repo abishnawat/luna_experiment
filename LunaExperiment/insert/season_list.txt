@@ -1,0 +1,173 @@
+type#  season, 		name#  Friends S1, 		season#   1,		series#  Friends, 			link#   series=friends&season=1, 		image#  tv_shows_posters/friends/s1.jpg
+type#  season, 		name#  Friends S2, 		season#   2,		series#  Friends, 			link#   series=friends&season=2, 		image#  tv_shows_posters/friends/s2.jpg
+type#  season, 		name#  Friends S3, 		season#   3,		series#  Friends, 			link#   series=friends&season=3, 		image#  tv_shows_posters/friends/s3.jpg
+type#  season, 		name#  Friends S4, 		season#   4,		series#  Friends, 			link#   series=friends&season=4, 		image#  tv_shows_posters/friends/s4.jpg
+type#  season, 		name#  Friends S5, 		season#   5,		series#  Friends, 			link#   series=friends&season=5, 		image#  tv_shows_posters/friends/s5.jpg
+type#  season, 		name#  Friends S6, 		season#   6,		series#  Friends, 			link#   series=friends&season=6, 		image#  tv_shows_posters/friends/s6.jpg
+type#  season, 		name#  Friends S7, 		season#   7,		series#  Friends, 			link#   series=friends&season=7, 		image#  tv_shows_posters/friends/s7.jpg
+type#  season, 		name#  Friends S8, 		season#   8,		series#  Friends, 			link#   series=friends&season=8, 		image#  tv_shows_posters/friends/s8.jpg
+type#  season, 		name#  Friends S9, 		season#   9,		series#  Friends, 			link#   series=friends&season=9, 		image#  tv_shows_posters/friends/s9.jpg
+type#  season, 		name#  Friends S10, 		season#   10,		series#  Friends, 			link#   series=friends&season=10, 		image#  tv_shows_posters/friends/s10.jpg
+type#  season, 		name#  Game Of Thrones S1, 	season#   1,		series#  Game Of Thrones, 		link#   series=game of thrones&season=1,	image#  tv_shows_posters/game of thrones/s1.jpg
+type#  season, 		name#  Game Of Thrones S2, 	season#   2,		series#  Game Of Thrones, 		link#   series=game of thrones&season=2,	image#  tv_shows_posters/game of thrones/s2.jpg
+type#  season, 		name#  Game Of Thrones S3, 	season#   3,		series#  Game Of Thrones, 		link#   series=game of thrones&season=3,	image#  tv_shows_posters/game of thrones/s3.jpg
+type#  season, 		name#  Game Of Thrones S4, 	season#   4,		series#  Game Of Thrones, 		link#   series=game of thrones&season=4,	image#  tv_shows_posters/game of thrones/s4.jpg
+type#  season, 		name#  Game Of Thrones S5, 	season#   5,		series#  Game Of Thrones, 		link#   series=game of thrones&season=5,	image#  tv_shows_posters/game of thrones/s5.jpg
+type#  season, 		name#  Breaking Bad S1, 	season#   1,		series#  Breaking Bad,	 		link#   series=breaking bad&season=1, 		image#  tv_shows_posters/breaking bad/s1.jpg
+type#  season, 		name#  Breaking Bad S2, 	season#   2,		series#  Breaking Bad,	 		link#   series=breaking bad&season=2, 		image#  tv_shows_posters/breaking bad/s2.jpg
+type#  season, 		name#  Breaking Bad S3, 	season#   3,		series#  Breaking Bad,	 		link#   series=breaking bad&season=3, 		image#  tv_shows_posters/breaking bad/s3.jpg
+type#  season, 		name#  Breaking Bad S4, 	season#   4,		series#  Breaking Bad,	 		link#   series=breaking bad&season=4, 		image#  tv_shows_posters/breaking bad/s4.jpg
+type#  season, 		name#  Breaking Bad S5, 	season#   5,		series#  Breaking Bad,	 		link#   series=breaking bad&season=5, 		image#  tv_shows_posters/breaking bad/s5.jpg
+type#  season, 		name#  Suits S1,	 	season#   1,		series#  Suits,	 			link#   series=suits&season=1, 			image#  tv_shows_posters/suits/s1.jpg
+type#  season, 		name#  Suits S2,	 	season#   2,		series#  Suits,	 			link#   series=suits&season=2, 			image#  tv_shows_posters/suits/s2.jpg
+type#  season, 		name#  Suits S3,	 	season#   3,		series#  Suits,	 			link#   series=suits&season=3, 			image#  tv_shows_posters/suits/s3.jpg
+type#  season, 		name#  Suits S4,	 	season#   4,		series#  Suits,	 			link#   series=suits&season=4, 			image#  tv_shows_posters/suits/s4.jpg
+type#  season, 		name#  The Walking Dead S1,	season#   1,		series#  The Walking Dead,		link#   series=the walking dead&season=1, 	image#  tv_shows_posters/the walking dead/s1.jpg
+type#  season, 		name#  The Walking Dead S2,	season#   2,		series#  The Walking Dead,		link#   series=the walking dead&season=2, 	image#  tv_shows_posters/the walking dead/s2.jpg
+type#  season, 		name#  The Walking Dead S3,	season#   3,		series#  The Walking Dead,		link#   series=the walking dead&season=3, 	image#  tv_shows_posters/the walking dead/s3.jpg
+type#  season, 		name#  The Walking Dead S4,	season#   4,		series#  The Walking Dead,		link#   series=the walking dead&season=4, 	image#  tv_shows_posters/the walking dead/s4.jpg
+type#  season, 		name#  The Walking Dead S5,	season#   5,		series#  The Walking Dead,		link#   series=the walking dead&season=5, 	image#  tv_shows_posters/the walking dead/s5.jpg
+type#  season, 		name#  The Walking Dead S6,	season#   6,		series#  The Walking Dead,		link#   series=the walking dead&season=6, 	image#  tv_shows_posters/the walking dead/s6.jpg
+type#  season, 		name#  Daredevil S1,		season#   1,		series#  Daredevil,			link#   series=daredevil&season=1, 		image#  tv_shows_posters/daredevil/s1.jpg
+type#  season, 		name#  Dexter S1,		season#   1,		series#  Dexter,			link#   series=dexter&season=1, 		image#  tv_shows_posters/dexter/s1.jpg
+type#  season, 		name#  Dexter S2,		season#   2,		series#  Dexter,			link#   series=dexter&season=2, 		image#  tv_shows_posters/dexter/s2.jpg
+type#  season, 		name#  Dexter S3,		season#   3,		series#  Dexter,			link#   series=dexter&season=3, 		image#  tv_shows_posters/dexter/s3.jpg
+type#  season, 		name#  Dexter S4,		season#   4,		series#  Dexter,			link#   series=dexter&season=4, 		image#  tv_shows_posters/dexter/s4.jpg
+type#  season, 		name#  Dexter S5,		season#   5,		series#  Dexter,			link#   series=dexter&season=5, 		image#  tv_shows_posters/dexter/s5.jpg
+type#  season, 		name#  Dexter S6,		season#   6,		series#  Dexter,			link#   series=dexter&season=6, 		image#  tv_shows_posters/dexter/s6.jpg
+type#  season, 		name#  Dexter S7,		season#   7,		series#  Dexter,			link#   series=dexter&season=7, 		image#  tv_shows_posters/dexter/s7.jpg
+type#  season, 		name#  Dexter S8,		season#   8,		series#  Dexter,			link#   series=dexter&season=8, 		image#  tv_shows_posters/dexter/s8.jpg
+type#  season, 		name#  Jessica Jones S1,	season#   1,		series#  Jessica Jones,			link#   series=jessica jones&season=1, 		image#  tv_shows_posters/jessica jones/s1.jpg
+type#  season, 		name#  American Horror Story S1,	season#   1,		series#  American Horror Story,		link#   series=american horror story&season=1, 		image#  tv_shows_posters/american horror story/s1.jpg
+type#  season, 		name#  American Horror Story S2,	season#   2,		series#  American Horror Story,		link#   series=american horror story&season=2, 		image#  tv_shows_posters/american horror story/s2.jpg
+type#  season, 		name#  American Horror Story S3,	season#   3,		series#  American Horror Story,		link#   series=american horror story&season=3, 		image#  tv_shows_posters/american horror story/s3.jpg
+type#  season, 		name#  American Horror Story S4,	season#   4,		series#  American Horror Story,		link#   series=american horror story&season=4, 		image#  tv_shows_posters/american horror story/s4.jpg
+type#  season, 		name#  American Horror Story S5,	season#   5,		series#  American Horror Story,		link#   series=american horror story&season=5, 		image#  tv_shows_posters/american horror story/s5.jpg
+type#  season, 		name#  Vikings S1,		season#   1,		series#  Vikings,			link#   series=vikings&season=1, 		image#  tv_shows_posters/vikings/s1.jpg
+type#  season, 		name#  Vikings S2,		season#   2,		series#  Vikings,			link#   series=vikings&season=2, 		image#  tv_shows_posters/vikings/s2.jpg
+type#  season, 		name#  Orange Is The New Black S1,	season#   1,		series#  Orange Is The New Black,	link#   series=orange is the new black&season=1, 			image#  tv_shows_posters/orange is the new black/s1.jpg
+type#  season, 		name#  Orange Is The New Black S2,	season#   2,		series#  Orange Is The New Black,	link#   series=orange is the new black&season=2, 			image#  tv_shows_posters/orange is the new black/s2.jpg
+type#  season, 		name#  Orange Is The New Black S3,	season#   3,		series#  Orange Is The New Black,	link#   series=orange is the new black&season=3, 			image#  tv_shows_posters/orange is the new black/s3.jpg
+type#  season, 		name#  That's So Raven S1,	season#   1,		series#  That's So Raven,		link#   series=that's so raven&season=1, 			image#  tv_shows_posters/that's so raven/s1.jpg
+type#  season, 		name#  That's So Raven S2,	season#   2,		series#  That's So Raven,		link#   series=that's so raven&season=2, 			image#  tv_shows_posters/that's so raven/s2.jpg
+type#  season, 		name#  That's So Raven S3,	season#   3,		series#  That's So Raven,		link#   series=that's so raven&season=3, 			image#  tv_shows_posters/that's so raven/s3.jpg
+type#  season, 		name#  That's So Raven S4,	season#   4,		series#  That's So Raven,		link#   series=that's so raven&season=4, 			image#  tv_shows_posters/that's so raven/s4.jpg
+type#  season, 		name#  Quantico S1,		season#   1,		series#  Quantico,			link#   series=quantico&season=1, 		image#  tv_shows_posters/quantico/s1.jpg
+type#  season, 		name#  The Flash S1,		season#   1,		series#  The Flash,			link#   series=the flash&season=1, 		image#  tv_shows_posters/the flash/s1.jpg
+type#  season, 		name#  The Flash S2,		season#   2,		series#  The Flash,			link#   series=the flash&season=2, 		image#  tv_shows_posters/the flash/s2.jpg
+type#  season, 		name#  Arrow S1,		season#   1,		series#  Arrow,				link#   series=arrow&season=1, 			image#  tv_shows_posters/arrow/s1.jpg
+type#  season, 		name#  Arrow S2,		season#   2,		series#  Arrow,				link#   series=arrow&season=2, 			image#  tv_shows_posters/arrow/s2.jpg
+type#  season, 		name#  Arrow S3,		season#   3,		series#  Arrow,				link#   series=arrow&season=3, 			image#  tv_shows_posters/arrow/s3.jpg
+type#  season, 		name#  Arrow S4,		season#   4,		series#  Arrow,				link#   series=arrow&season=4, 			image#  tv_shows_posters/arrow/s4.jpg
+type#  season, 		name#  Gotham S1,		season#   1,		series#  Gotham,			link#   series=gotham&season=1, 		image#  tv_shows_posters/gotham/s1.jpg
+type#  season, 		name#  Gotham S2,		season#   2,		series#  Gotham,			link#   series=gotham&season=2, 		image#  tv_shows_posters/gotham/s2.jpg
+type#  season, 		name#  Pretty Little Liars S1,		season#   1,		series#  Pretty Little Liars,		link#   series=pretty little liars&season=1, 		image#  tv_shows_posters/pretty little liars/s1.jpg
+type#  season, 		name#  Pretty Little Liars S2,		season#   2,		series#  Pretty Little Liars,		link#   series=pretty little liars&season=2, 		image#  tv_shows_posters/pretty little liars/s2.jpg
+type#  season, 		name#  Pretty Little Liars S3,		season#   3,		series#  Pretty Little Liars,		link#   series=pretty little liars&season=3, 		image#  tv_shows_posters/pretty little liars/s3.jpg
+type#  season, 		name#  Pretty Little Liars S4,		season#   4,		series#  Pretty Little Liars,		link#   series=pretty little liars&season=4, 		image#  tv_shows_posters/pretty little liars/s4.jpg
+type#  season, 		name#  Pretty Little Liars S5,		season#   5,		series#  Pretty Little Liars,		link#   series=pretty little liars&season=5, 		image#  tv_shows_posters/pretty little liars/s5.jpg
+type#  season, 		name#  Pretty Little Liars S6,		season#   6,		series#  Pretty Little Liars,		link#   series=pretty little liars&season=6, 		image#  tv_shows_posters/pretty little liars/s6.jpg
+type#  season, 		name#  South Park S1,		season#   1,		series#  South Park,			link#   series=south park&season=1, 		image#  tv_shows_posters/south park/s1.jpg
+type#  season, 		name#  South Park S2,		season#   2,		series#  South Park,			link#   series=south park&season=2, 		image#  tv_shows_posters/south park/s2.jpg
+type#  season, 		name#  South Park S3,		season#   3,		series#  South Park,			link#   series=south park&season=3, 		image#  tv_shows_posters/south park/s3.jpg
+type#  season, 		name#  South Park S4,		season#   4,		series#  South Park,			link#   series=south park&season=4, 		image#  tv_shows_posters/south park/s4.jpg
+type#  season, 		name#  South Park S5,		season#   5,		series#  South Park,			link#   series=south park&season=5, 		image#  tv_shows_posters/south park/s5.jpg
+type#  season, 		name#  South Park S6,		season#   6,		series#  South Park,			link#   series=south park&season=6, 		image#  tv_shows_posters/south park/s6.jpg
+type#  season, 		name#  South Park S7,		season#   7,		series#  South Park,			link#   series=south park&season=7, 		image#  tv_shows_posters/south park/s7.jpg
+type#  season, 		name#  South Park S8,		season#   8,		series#  South Park,			link#   series=south park&season=8, 		image#  tv_shows_posters/south park/s8.jpg
+type#  season, 		name#  South Park S9,		season#   9,		series#  South Park,			link#   series=south park&season=9, 		image#  tv_shows_posters/south park/s9.jpg
+type#  season, 		name#  South Park S10,		season#   10,		series#  South Park,			link#   series=south park&season=10, 		image#  tv_shows_posters/south park/s10.jpg
+type#  season, 		name#  South Park S11,		season#   11,		series#  South Park,			link#   series=south park&season=11, 		image#  tv_shows_posters/south park/s11.jpg
+type#  season, 		name#  South Park S12,		season#   12,		series#  South Park,			link#   series=south park&season=12, 		image#  tv_shows_posters/south park/s12.jpg
+type#  season, 		name#  South Park S13,		season#   13,		series#  South Park,			link#   series=south park&season=13, 		image#  tv_shows_posters/south park/s13.jpg
+type#  season, 		name#  South Park S14,		season#   14,		series#  South Park,			link#   series=south park&season=14, 		image#  tv_shows_posters/south park/s14.jpg
+type#  season, 		name#  South Park S15,		season#   15,		series#  South Park,			link#   series=south park&season=15, 		image#  tv_shows_posters/south park/s15.jpg
+type#  season, 		name#  South Park S16,		season#   16,		series#  South Park,			link#   series=south park&season=16, 		image#  tv_shows_posters/south park/s16.jpg
+type#  season, 		name#  South Park S17,		season#   17,		series#  South Park,			link#   series=south park&season=17, 		image#  tv_shows_posters/south park/s17.jpg
+type#  season, 		name#  South Park S18,		season#   18,		series#  South Park,			link#   series=south park&season=18, 		image#  tv_shows_posters/south park/s18.jpg
+type#  season, 		name#  South Park S19,		season#   19,		series#  South Park,			link#   series=south park&season=19, 		image#  tv_shows_posters/south park/s19.jpg
+type#  season, 		name#  Once Upon A Time S1,		season#   1,		series#  Once Upon A Time,		link#   series=once upon a time&season=1, 		image#  tv_shows_posters/once upon a time/s1.jpg
+type#  season, 		name#  Once Upon A Time S2,		season#   2,		series#  Once Upon A Time,		link#   series=once upon a time&season=2, 		image#  tv_shows_posters/once upon a time/s2.jpg
+type#  season, 		name#  Once Upon A Time S3,		season#   3,		series#  Once Upon A Time,		link#   series=once upon a time&season=3, 		image#  tv_shows_posters/once upon a time/s3.jpg
+type#  season, 		name#  Once Upon A Time S4,		season#   4,		series#  Once Upon A Time,		link#   series=once upon a time&season=4, 		image#  tv_shows_posters/once upon a time/s4.jpg
+type#  season, 		name#  Once Upon A Time S5,		season#   5,		series#  Once Upon A Time,		link#   series=once upon a time&season=5, 		image#  tv_shows_posters/once upon a time/s5.jpg
+type#  season, 		name#  Scream Queens S1,	season#   1,		series#  Scream Queens,			link#   series=scream queens&season=1,	 	image#  tv_shows_posters/scream queens/s1.jpg
+type#  season, 		name#  IZombie S1,		season#   1,		series#  IZombie,			link#   series=izombie&season=1,	 	image#  tv_shows_posters/izombie/s1.jpg
+type#  season, 		name#  IZombie S2,		season#   2,		series#  IZombie,			link#   series=izombie&season=2,	 	image#  tv_shows_posters/izombie/s2.jpg
+type#  season, 		name#  True Detective S1,	season#   1,		series#  True Detective,		link#   series=true detective&season=1,	 	image#  tv_shows_posters/true detective/s1.jpg
+type#  season, 		name#  True Detective S2,	season#   2,		series#  True Detective,		link#   series=true detective&season=2,	 	image#  tv_shows_posters/true detective/s2.jpg
+type#  season, 		name#  Hannibal S1,		season#   1,		series#  Hannibal,			link#   series=hannibal&season=1,	 	image#  tv_shows_posters/hannibal/s1.jpg
+type#  season, 		name#  Hannibal S2,		season#   2,		series#  Hannibal,			link#   series=hannibal&season=2,	 	image#  tv_shows_posters/hannibal/s2.jpg
+type#  season, 		name#  Hannibal S3,		season#   3,		series#  Hannibal,			link#   series=hannibal&season=3,	 	image#  tv_shows_posters/hannibal/s3.jpg
+type#  season, 		name#  Doctor Who S1,		season#   1,		series#  Doctor Who,			link#   series=doctor who&season=1,	 	image#  tv_shows_posters/doctor who/s1.jpg
+type#  season, 		name#  Doctor Who S2,		season#   2,		series#  Doctor Who,			link#   series=doctor who&season=2,	 	image#  tv_shows_posters/doctor who/s2.jpg
+type#  season, 		name#  Doctor Who S3,		season#   3,		series#  Doctor Who,			link#   series=doctor who&season=3,	 	image#  tv_shows_posters/doctor who/s3.jpg
+type#  season, 		name#  Doctor Who S4,		season#   4,		series#  Doctor Who,			link#   series=doctor who&season=4,	 	image#  tv_shows_posters/doctor who/s4.jpg
+type#  season, 		name#  Doctor Who S5,		season#   5,		series#  Doctor Who,			link#   series=doctor who&season=5,	 	image#  tv_shows_posters/doctor who/s5.jpg
+type#  season, 		name#  Doctor Who S6,		season#   6,		series#  Doctor Who,			link#   series=doctor who&season=6,	 	image#  tv_shows_posters/doctor who/s6.jpg
+type#  season, 		name#  Doctor Who S7,		season#   7,		series#  Doctor Who,			link#   series=doctor who&season=7,	 	image#  tv_shows_posters/doctor who/s7.jpg
+type#  season, 		name#  Doctor Who S8,		season#   8,		series#  Doctor Who,			link#   series=doctor who&season=8,	 	image#  tv_shows_posters/doctor who/s8.jpg
+type#  season, 		name#  Doctor Who S9,		season#   9,		series#  Doctor Who,			link#   series=doctor who&season=9,	 	image#  tv_shows_posters/doctor who/s9.jpg
+type#  season, 		name#  Downton Abbey S1,	season#   1,		series#  Downton Abbey,			link#   series=downton abbey&season=1,	 	image#  tv_shows_posters/downton abbey/s1.jpg
+type#  season, 		name#  Downton Abbey S2,	season#   2,		series#  Downton Abbey,			link#   series=downton abbey&season=2,	 	image#  tv_shows_posters/downton abbey/s2.jpg
+type#  season, 		name#  Downton Abbey S3,	season#   3,		series#  Downton Abbey,			link#   series=downton abbey&season=3,	 	image#  tv_shows_posters/downton abbey/s3.jpg
+type#  season, 		name#  Downton Abbey S4,	season#   4,		series#  Downton Abbey,			link#   series=downton abbey&season=4,	 	image#  tv_shows_posters/downton abbey/s4.jpg
+type#  season, 		name#  Downton Abbey S5,	season#   5,		series#  Downton Abbey,			link#   series=downton abbey&season=5,	 	image#  tv_shows_posters/downton abbey/s5.jpg
+type#  season, 		name#  Reign S1,		season#   1,		series#  Reign,				link#   series=reign&season=1,	 		image#  tv_shows_posters/reign/s1.jpg
+type#  season, 		name#  Reign S2,		season#   2,		series#  Reign,				link#   series=reign&season=2,	 		image#  tv_shows_posters/reign/s2.jpg
+type#  season, 		name#  Reign S3,		season#   3,		series#  Reign,				link#   series=reign&season=3,	 		image#  tv_shows_posters/reign/s3.jpg
+type#  season, 		name#  Sense 8 S1,		season#   1,		series#  Sense 8,			link#   series=sense 8&season=1,	 	image#  tv_shows_posters/sense 8/s1.jpg
+type#  season, 		name#  Big Bang Theory S1,	season#   1,		series#  Big Bang Theory,		link#   series=big bang theory&season=1,	image#  tv_shows_posters/big bang theory/s1.jpg
+type#  season, 		name#  Big Bang Theory S2,	season#   2,		series#  Big Bang Theory,		link#   series=big bang theory&season=2,	image#  tv_shows_posters/big bang theory/s2.jpg
+type#  season, 		name#  Big Bang Theory S3,	season#   3,		series#  Big Bang Theory,		link#   series=big bang theory&season=3,	image#  tv_shows_posters/big bang theory/s3.jpg
+type#  season, 		name#  Big Bang Theory S4,	season#   4,		series#  Big Bang Theory,		link#   series=big bang theory&season=4,	image#  tv_shows_posters/big bang theory/s4.jpg
+type#  season, 		name#  Big Bang Theory S5,	season#   5,		series#  Big Bang Theory,		link#   series=big bang theory&season=5,	image#  tv_shows_posters/big bang theory/s5.jpg
+type#  season, 		name#  Big Bang Theory S6,	season#   6,		series#  Big Bang Theory,		link#   series=big bang theory&season=6,	image#  tv_shows_posters/big bang theory/s6.jpg
+type#  season, 		name#  Big Bang Theory S7,	season#   7,		series#  Big Bang Theory,		link#   series=big bang theory&season=7,	image#  tv_shows_posters/big bang theory/s7.jpg
+type#  season, 		name#  Big Bang Theory S8,	season#   8,		series#  Big Bang Theory,		link#   series=big bang theory&season=8,	image#  tv_shows_posters/big bang theory/s8.jpg
+type#  season, 		name#  Big Bang Theory S9,	season#   9,		series#  Big Bang Theory,		link#   series=big bang theory&season=9,	image#  tv_shows_posters/big bang theory/s9.jpg
+type#  season, 		name#  Seinfeld S1,		season#   1,		series#  Seinfeld,			link#   series=seinfeld&season=1,		image#  tv_shows_posters/seinfeld/s1.jpg
+type#  season, 		name#  Seinfeld S2,		season#   2,		series#  Seinfeld,			link#   series=seinfeld&season=2,		image#  tv_shows_posters/seinfeld/s2.jpg
+type#  season, 		name#  Seinfeld S3,		season#   3,		series#  Seinfeld,			link#   series=seinfeld&season=3,		image#  tv_shows_posters/seinfeld/s3.jpg
+type#  season, 		name#  Seinfeld S4,		season#   4,		series#  Seinfeld,			link#   series=seinfeld&season=4,		image#  tv_shows_posters/seinfeld/s4.jpg
+type#  season, 		name#  Seinfeld S5,		season#   5,		series#  Seinfeld,			link#   series=seinfeld&season=5,		image#  tv_shows_posters/seinfeld/s5.jpg
+type#  season, 		name#  Seinfeld S6,		season#   6,		series#  Seinfeld,			link#   series=seinfeld&season=6,		image#  tv_shows_posters/seinfeld/s6.jpg
+type#  season, 		name#  Seinfeld S7,		season#   7,		series#  Seinfeld,			link#   series=seinfeld&season=7,		image#  tv_shows_posters/seinfeld/s7.jpg
+type#  season, 		name#  Seinfeld S8,		season#   8,		series#  Seinfeld,			link#   series=seinfeld&season=8,		image#  tv_shows_posters/seinfeld/s8.jpg
+type#  season, 		name#  Seinfeld S9,		season#   9,		series#  Seinfeld,			link#   series=seinfeld&season=9,		image#  tv_shows_posters/seinfeld/s9.jpg
+type#  season, 		name#  Weeds S1,		season#   1,		series#  Weeds,				link#   series=weeds&season=1,			image#  tv_shows_posters/weeds/s1.jpg
+type#  season, 		name#  Weeds S2,		season#   2,		series#  Weeds,				link#   series=weeds&season=2,			image#  tv_shows_posters/weeds/s2.jpg
+type#  season, 		name#  Weeds S3,		season#   3,		series#  Weeds,				link#   series=weeds&season=3,			image#  tv_shows_posters/weeds/s3.jpg
+type#  season, 		name#  Weeds S4,		season#   4,		series#  Weeds,				link#   series=weeds&season=4,			image#  tv_shows_posters/weeds/s4.jpg
+type#  season, 		name#  Weeds S5,		season#   5,		series#  Weeds,				link#   series=weeds&season=5,			image#  tv_shows_posters/weeds/s5.jpg
+type#  season, 		name#  Weeds S6,		season#   6,		series#  Weeds,				link#   series=weeds&season=6,			image#  tv_shows_posters/weeds/s6.jpg
+type#  season, 		name#  Weeds S7,		season#   7,		series#  Weeds,				link#   series=weeds&season=7,			image#  tv_shows_posters/weeds/s7.jpg
+type#  season, 		name#  Weeds S8,		season#   8,		series#  Weeds,				link#   series=weeds&season=8,			image#  tv_shows_posters/weeds/s8.jpg
+type#  season, 		name#  Mad Men S1,		season#   1,		series#  Mad Men,			link#   series=mad men&season=1,		image#  tv_shows_posters/mad men/s1.jpg
+type#  season, 		name#  Mad Men S2,		season#   2,		series#  Mad Men,			link#   series=mad men&season=2,		image#  tv_shows_posters/mad men/s2.jpg
+type#  season, 		name#  Mad Men S3,		season#   3,		series#  Mad Men,			link#   series=mad men&season=3,		image#  tv_shows_posters/mad men/s3.jpg
+type#  season, 		name#  Mad Men S4,		season#   4,		series#  Mad Men,			link#   series=mad men&season=4,		image#  tv_shows_posters/mad men/s4.jpg
+type#  season, 		name#  Mad Men S5,		season#   5,		series#  Mad Men,			link#   series=mad men&season=5,		image#  tv_shows_posters/mad men/s5.jpg
+type#  season, 		name#  Mad Men S6,		season#   6,		series#  Mad Men,			link#   series=mad men&season=6,		image#  tv_shows_posters/mad men/s6.jpg
+type#  season, 		name#  Mad Men S7,		season#   7,		series#  Mad Men,			link#   series=mad men&season=7,		image#  tv_shows_posters/mad men/s7.jpg
+type#  season, 		name#  The Good Wife S1,	season#   1,		series#  The Good Wife,			link#   series=the good wife&season=1,		image#  tv_shows_posters/the good wife/s1.jpg
+type#  season, 		name#  The Good Wife S2,	season#   2,		series#  The Good Wife,			link#   series=the good wife&season=2,		image#  tv_shows_posters/the good wife/s2.jpg
+type#  season, 		name#  The Good Wife S3,	season#   3,		series#  The Good Wife,			link#   series=the good wife&season=3,		image#  tv_shows_posters/the good wife/s3.jpg
+type#  season, 		name#  The Good Wife S4,	season#   4,		series#  The Good Wife,			link#   series=the good wife&season=4,		image#  tv_shows_posters/the good wife/s4.jpg
+type#  season, 		name#  The Good Wife S5,	season#   5,		series#  The Good Wife,			link#   series=the good wife&season=5,		image#  tv_shows_posters/the good wife/s5.jpg
+type#  season, 		name#  Boardwalk Empire S1,	season#   1,		series#  Boardwalk Empire,		link#   series=boardwalk empire&season=1,	image#  tv_shows_posters/boardwalk empire/s1.jpg
+type#  season, 		name#  Boardwalk Empire S2,	season#   2,		series#  Boardwalk Empire,		link#   series=boardwalk empire&season=2,	image#  tv_shows_posters/boardwalk empire/s2.jpg
+type#  season, 		name#  Boardwalk Empire S3,	season#   3,		series#  Boardwalk Empire,		link#   series=boardwalk empire&season=3,	image#  tv_shows_posters/boardwalk empire/s3.jpg
+type#  season, 		name#  Boardwalk Empire S4,	season#   4,		series#  Boardwalk Empire,		link#   series=boardwalk empire&season=4,	image#  tv_shows_posters/boardwalk empire/s4.jpg
+type#  season, 		name#  Boardwalk Empire S5,	season#   5,		series#  Boardwalk Empire,		link#   series=boardwalk empire&season=5,	image#  tv_shows_posters/boardwalk empire/s5.jpg
+type#  season, 		name#  The Wire S1,		season#   1,		series#  The Wire,			link#   series=the wire&season=1,		image#  tv_shows_posters/the wire/s1.jpg
+type#  season, 		name#  The Wire S2,		season#   2,		series#  The Wire,			link#   series=the wire&season=2,		image#  tv_shows_posters/the wire/s2.jpg
+type#  season, 		name#  The Wire S3,		season#   3,		series#  The Wire,			link#   series=the wire&season=3,		image#  tv_shows_posters/the wire/s3.jpg
+type#  season, 		name#  The Wire S4,		season#   4,		series#  The Wire,			link#   series=the wire&season=4,		image#  tv_shows_posters/the wire/s4.jpg
+type#  season, 		name#  The Wire S5,		season#   5,		series#  The Wire,			link#   series=the wire&season=5,		image#  tv_shows_posters/the wire/s5.jpg
+type#  season, 		name#  Jane The Virgin S1,	season#   1,		series#  Jane The Virgin,		link#   series=jane the virgin&season=1,	image#  tv_shows_posters/jane the virgin/s1.jpg
+type#  season, 		name#  Jane The Virgin S2,	season#   2,		series#  Jane The Virgin,		link#   series=jane the virgin&season=2,	image#  tv_shows_posters/jane the virgin/s2.jpg
+type#  season, 		name#  Last Man On Earth S1,	season#   1,		series#  Last Man On Earth,		link#   series=last man on earth&season=1,	image#  tv_shows_posters/last man on earth/s1.jpg
+type#  season, 		name#  Last Man On Earth S2,	season#   2,		series#  Last Man On Earth,		link#   series=last man on earth&season=2,	image#  tv_shows_posters/last man on earth/s2.jpg
+type#  season, 		name#  Homeland S1,	season#   1,		series#  Homeland,		link#   series=homeland&season=1,		image#  tv_shows_posters/homeland/s1.jpg
+type#  season, 		name#  Homeland S2,	season#   2,		series#  Homeland,		link#   series=homeland&season=2,		image#  tv_shows_posters/homeland/s2.jpg

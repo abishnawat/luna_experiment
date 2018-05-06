@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<script src="../js/jquery.min.js"></script>
+<script>
+var FILENAME = 'https://lh3.googleusercontent.com/RzKX3bWJWQaad4QIni0KLQivufcITCKmHECAJ0Mk5g=m18';
+var NUM_CHUNKS = 5;
+
+function get(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', url, true);
+  xhr.responseType = 'blob';
+
+  xhr.onload = function(e) {
+    if (this.status == 200) {
+      callback(this.response);
+    }
+  };
+
+  xhr.send();
+}
+
+get(FILENAME, function(file) {
+  var chunkSize = Math.ceil(file.size / NUM_CHUNKS);
+  var fileNameParts = FILENAME.split('.');
+
+  for (var i = 0; i < NUM_CHUNKS; ++i) {
+    var startByte = chunkSize * i;
+
+    var chunk = file.slice(startByte, startByte + chunkSize, file.type);
+
+    var a = document.createElement('a');
+    a.download = [fileNameParts[0] + i, fileNameParts[1]].join('.');
+    a.textContent = 'Download chunk ' + i;
+    a.title = chunk.size + ' byte';
+    // blob urls created from file parts use original file. See crbug.com/145156.
+    a.href = window.URL.createObjectURL(chunk);
+    document.body.appendChild(a);
+  }
+});
+</script>
+</head>
+
+<body>
+<a id="downloader" href="https://lh3.googleusercontent.com/RzKX3bWJWQaad4QIni0KLQivufcITCKmHECAJ0Mk5g=m18" download="hello">download</a>
+</body>
+</html>

@@ -1,0 +1,385 @@
+@charset "utf-8";
+/* CSS Document */
+*{padding:0; margin:0; font-family:Halvetica,arial, sans-serif;}
+*:focus{outline:none;}
+body,html{
+	width:100%;
+	height:100%;
+}
+body{
+	background-image:linear-gradient(to bottom, #000000, #141414 25%);
+	background-color: #141414;
+	background-repeat: no-repeat;
+}
+
+.header{
+}
+	.header_inner{
+	}
+		.header_content{
+			text-align:center;
+			color:#fff;
+			font-weight:bold;
+		}
+			.header_content_top{
+				margin-top:0.5%;
+			}
+				.heading_area{
+					font-size:46px;
+					opacity:0.9;
+				}
+					.heading_word{
+					}
+				.online_upto_area{
+					font-size:17px;
+					color:whitesmoke;
+					margin-top:0.3%;
+					letter-spacing:0.5px;
+					opacity:0.8;
+				}
+					.online_upto_word{
+					}
+			.header_content_bottom{
+				margin-top:0.5%;
+			}
+				.download_info_area{
+					font-size:16px;
+					color:whitesmoke;
+					@font-weight:normal;
+					opacity:0.7;
+					text-shadow:0px 1px 1px rgba(0,0,0,0.7);
+					margin-top:0.9%;
+				}
+					.download_info_word{
+					}
+
+
+
+.ct{
+	@border:solid red;
+	margin-top:2.5%;
+}
+	.ct_inner{
+	}
+		.row_area{
+			@border:solid red;
+			margin-top:1vw;
+		}
+			.row_area_inner{
+			}
+		.row_1_area{
+			margin-top:0px;
+		}
+				.movie_area{
+					@width:248.217px;
+					@height:141.367px;
+					width:420px;
+					height:235px;
+					@border:solid white thin;
+					display:inline-block;
+					margin-left:0px;
+					@margin:0px;
+					@transition:transform 300ms ease 0s;
+				}
+				.movie_area:hover{
+					@cursor:pointer;
+					@transform:scale(1.1);
+				}
+					.movie_area_inner{
+						width:100%;
+						height:100%;
+						background-size:cover;
+					}
+		/*
+				.movie_1_1_area{
+					margin-left:2.9%;
+				}
+					.movie_1_1_area_inner{
+						background:url(../tv_shows_posters/friends/title.jpg) no-repeat;
+						@border:solid thin white;
+						background-size:cover;
+						position:relative;
+						z-index:7;
+					}
+					.movie_1_1_area_inner:hover .play_area{
+						opacity:1
+					}
+					*/
+						.play_area{
+							position:relative;
+							top:25%;
+							left:44.5%;
+							@border:solid white thin;
+							position:absolute;
+							transition:opacity 0.2s ease-out 0s;
+							opacity:0;
+						}
+							.play_area_inner{
+								@border:solid red;
+							}
+								.play_img_area{
+									2background:url(luna_experiment_explore_page_imgs/play_1.png) no-repeat;
+									@height:41px;
+									@width:34px;
+									height:82px;
+									width:83px;
+									background-size:82px 80px;
+									transition:transform 0.3s ease-out 0s;
+									position:relative;
+									z-index:10;
+									@border:solid white thin;
+									@opacity:0.8;
+									transform:scale(0.9);
+								}
+								.play_img_area:hover{
+									cursor:pointer;
+									transform:scale(1.0);
+									opacity:1;
+								}
+									.play_img{
+									}
+						.details_area{
+							background:linear-gradient(to top, rgba(0,0,0,1) 5px, rgba(0,0,0,0.9) 12px, rgba(0,0,0,0.7) 20px, rgba(0,0,0,0.5) 30px, transparent 45px);
+							@border:solid red thin;
+							width:401px;
+							height:235px;
+							position:absolute;
+							@top: 70px;
+							@margin-top:47%;
+							padding:0px 15px 0px 15px;
+						}
+							.name_area{
+								@position:relative;
+								@top:0;
+								@height: 30px;
+								@border:solid white thin;
+								color:whitesmoke;
+								text-shadow:0px 1px 1px rgba(0,0,0,0.7);
+								@font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+								font-size:16px;
+								font-weight:600;
+								margin-top:50.5%;
+								letter-spacing:0.5px;
+								display:inline-block;
+								}
+								.dot_area{
+									color:whitesmoke;
+									text-shadow:0px 1px 1px rgba(0,0,0,0.7);
+									font-size:16px;
+									font-weight:600;
+									display:inline-block;
+									margin:0px 5px;
+								}
+								.tv_area{
+									color:whitesmoke;
+									text-shadow:0px 1px 1px rgba(0,0,0,0.7);
+									letter-spacing:0.5px;
+									display:inline-block;
+									font-weight:600;
+									font-size:12px;
+								}
+		/*
+				.movie_1_2_area{
+				}
+					.movie_1_2_area_inner{
+						background:url(../tv%20shows%27%20posters/american%20horror%20story/title.jpg) no-repeat;
+						@border:solid thin white;
+						background-size:cover;
+					}
+				.movie_1_3_area{
+					margin-right:2.9%;
+				}
+					.movie_1_3_area_inner{
+						background:url(../tv%20shows%27%20posters/game%20of%20thrones/title.jpg) no-repeat;
+						@border:solid thin white;
+						background-size:cover;
+					}
+				.movie_2_1_area{
+					margin-left:2.9%;
+				}
+					.movie_2_1_area_inner{
+						background:url(../tv%20shows%27%20posters/orange%20is%20the%20new%20black/title.jpg) no-repeat;
+						@border:solid thin white;
+						background-size:cover;
+					}
+				.movie_2_2_area{
+				}
+					.movie_2_2_area_inner{
+						background:url(../tv%20shows%27%20posters/pretty%20little%20liars/title.jpg) no-repeat;
+						@border:solid thin white;
+						background-size:cover;
+					}
+				.movie_2_3_area{
+					margin-right:2.9%;
+				}
+					.movie_2_3_area_inner{
+						background:url(../tv%20shows%27%20posters/the%20walking%20dead/title.jpg) no-repeat;
+						@border:solid thin white;
+						background-size:cover;
+					}
+				.movie_3_1_area{
+					margin-left:2.9%;
+				}
+					.movie_3_1_area_inner{
+						background:url(explore_page_imgs/hp_and_the_goblet_of_fire_1_1.jpg) no-repeat;
+						@border:solid thin white;
+						background-size:cover;
+					}
+				.movie_3_2_area{
+				}
+					.movie_3_2_area_inner{
+						background:url(explore_page_imgs/the_wolf_of_wall_street_3_1.jpg) no-repeat;
+						@border:solid thin white;
+						background-size:cover;
+					}
+				.movie_3_3_area{
+					margin-right:2.9%;
+				}
+					.movie_3_3_area_inner{
+						background:url(explore_page_imgs/hunger_games_catching_fire_2_1.jpg) no-repeat;
+						@border:solid thin white;
+						background-size:cover;
+					}
+*/					
+					
+.comment_and_search_area{
+	@border:solid white thin;
+	position:fixed;
+	@height:22px;
+	height:36px;
+	width:100px;
+	top:2.5%;
+	right:1.7%;
+	background:rgba(0,0,0,0.5);
+	border-radius:5px;
+	z-index:30;
+	@display:none;
+}
+	.comment_and_search_area_inner{
+		@border:solid red thin;
+		height:100%;
+		width:80%;
+		margin-left:auto;
+		margin-right:auto;
+		@margin-top:8px;
+		cursor:default;
+	}
+		.comment_area{
+			display:inline-block;
+			transition:transform 0.3s ease 0s;
+			@border:solid red thin;
+			height:100%;
+			width:47%;
+		}
+		.comment_area:hover{
+			cursor:pointer;
+			transform:scale(1.1);
+		}
+			.comment_area_inner{
+				background:url(../explore_page_imgs/comment_2.png) 0px 0px no-repeat;
+				@border:solid white thin;
+				width:22px;
+				height:19px;
+				transform:scale(0.9);
+				margin-top:8px;
+				margin-left:auto;
+				margin-right:auto;
+			}
+		.search_area{
+			display:inline-block;
+			@margin-left:10px;
+			transform:scale(0.9);
+			transition:transform 0.3s ease 0s;
+			@border:solid red thin;
+			height:100%;
+			width:47%;
+		}
+		.search_area:hover{
+			cursor:pointer;
+			transform:scale(1);
+		}
+			.search_area_inner{
+				background:url(../explore_page_imgs/search.png) no-repeat;
+				@border:solid white thin;
+				width:22px;
+				height:21px;
+				margin-top:8px;
+				margin-left:auto;
+				margin-right:auto;
+			}
+
+.search_box_area{
+	1display:inline-block;
+	1width:250px;
+	border:solid 1px;
+	border-color: #C0C0C0 #D9D9D9 #D9D9D9;
+	height:22px;
+	padding:2px 9px 0px;
+	line-height:1.2em;
+	1position:fixed;
+	1top:2.5%;
+	1right:3%;
+	background:rgba(255,255,255,1.0);
+	border-radius:3px;
+	opacity:1;
+	1display:none;
+}
+	.search_box_area_inner{
+	}
+		.search_box{
+			display:inline-block;
+			width:100%;
+			height:1.2em;
+			line-height:1.2em;
+			font-size:14px;
+			border:none;
+			position:relative;
+			top:0px;
+			background:transparent;
+			color:#141414;
+		}
+		.search_button{
+			display:inline-block;
+			height:26px;
+			background:transparent;
+			border:none;
+			float:left;
+			@border:solid red thin;
+			margin-left:90%;
+			margin-top:-8%;
+			position:relative;
+			z-index:20;
+		}
+		.search_button:hover{
+			cursor:pointer;
+		}
+.suggestion_area{
+	1position:fixed;
+	1z-index:30;
+	1width:268px;
+	border:solid 1px;
+	border-color: #C0C0C0 #D9D9D9 #D9D9D9;
+	@padding:5px 9px 5px;
+	line-height:1.2em;
+	font-size:14px;
+	top:6.3%;
+	right:3%;
+	background:#fff;
+	border-radius:3px;
+	display:none;
+	color:#373737;
+	@font-weight:bold;
+	text-shadow:0px 0px 0px rgba(0,0,0,0.7);
+}
+	.suggestion_area_inner{
+	}
+		.suggestion_individual_area{
+			@border:solid red thin;
+			padding:2px 9px 2px 9px;
+		}
+		.suggestion_individual_area:hover{
+			background:#E9E9E9;
+			cursor:default;
+		}
+			.suggestion_individual_word{
+			}
